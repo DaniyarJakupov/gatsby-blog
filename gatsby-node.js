@@ -21,7 +21,7 @@ exports.createPages = ({ graphql, actions }) => {
       edges.forEach(({ node: { frontmatter } }) => {
         createPage({
           path: `posts${frontmatter.slug}`,
-          component: path.resolve('./src/components/archive.js'),
+          component: path.resolve('./src/components/postLayout.js'),
           context: {
             slug: frontmatter.slug,
           },
