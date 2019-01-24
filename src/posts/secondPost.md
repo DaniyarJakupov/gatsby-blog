@@ -1,7 +1,7 @@
 ---
 slug: '/second-post'
 date: '2018-11-21'
-title: 'Second day'
+title: 'Second post'
 ---
 
 # Second day of learning Gatsby!

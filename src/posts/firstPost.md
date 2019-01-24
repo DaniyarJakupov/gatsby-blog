@@ -1,7 +1,7 @@
 ---
 slug: '/first-post'
 date: '2018-11-20'
-title: 'My first post'
+title: 'First post'
 ---
 
 # Welcome, stranger!
