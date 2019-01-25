@@ -7,6 +7,7 @@ module.exports = {
     'gatsby-transformer-remark',
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
+    'gatsby-plugin-netlify-cms',
     //  this (optional) plugin enables Progressive Web App + Offline functionality
     //  To learn more, visit: https://gatsby.app/offline
     //  'gatsby-plugin-offline',
