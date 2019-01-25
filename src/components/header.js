@@ -4,7 +4,6 @@ import styled from 'styled-components'
 
 const Root = styled.div`
   background-color: #5e72e4;
-  margin-bottom: 1.45rem;
 `
 const Wrapper = styled.div`
   margin: 0 auto;
