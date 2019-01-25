@@ -10175,6 +10175,13 @@ react-side-effect@^1.1.0:
     exenv "^1.2.1"
     shallowequal "^1.0.1"
 
+react-spring@^7.2.10:
+  version "7.2.10"
+  resolved "https://registry.yarnpkg.com/react-spring/-/react-spring-7.2.10.tgz#eacbf429327bea058677c3a01af87b9c387f4aa6"
+  integrity sha512-bsbgQh1DzTqjwuD1tDZ7Nu04G5JhNNXdezkcJ5xXNboedN/MPe0K+X/MtypUxXBUCLYT0r5oKT3zj4STqVpnPA==
+  dependencies:
+    "@babel/runtime" "^7.0.0"
+
 react@^16.5.1:
   version "16.6.3"
   resolved "https://registry.yarnpkg.com/react/-/react-16.6.3.tgz#25d77c91911d6bbdd23db41e70fb094cc1e0871c"
